@@ -88,12 +88,13 @@ h1 {
 }
 
 button {
-  display: inline-block;
+  display: block;
   text-transform: uppercase;
   background: #f8f5f1;
   color: #333;
   border-radius: 4px;
   padding: 10px 40px;
+  margin-top: 15px;
   border: none;
   font-size: 1rem;
   transition: 0.3s ease all;
